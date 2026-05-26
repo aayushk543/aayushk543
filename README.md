@@ -8,21 +8,16 @@
 
 <br/>
 
-<!-- Social Badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-aayushk543-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayushk543)
 [![Portfolio](https://img.shields.io/badge/Portfolio-aayushk543.github.io-6c5ce7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aayushk543.github.io)
 [![Profile Views](https://komarev.com/ghpvc/?username=aayushk543&style=for-the-badge&color=6c5ce7)](https://github.com/aayushk543)
 
 </div>
 
----
-
-## 🧑‍💻 About Me
-
 ```yaml
 name: Aayush Kushwaha
 role: Builder & Developer
-location: India 🇮🇳
+location: Pune 
 education: Computer Science Student (BITS Pilani)
 
 currently_working_on: Computer Vision & Full-Stack Apps
@@ -63,8 +58,6 @@ fun_fact: I build things that solve real problems ⚡
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
-
----
 
 ## 🚀 Featured Projects
 
@@ -125,8 +118,6 @@ Clean, intuitive mobile application for calculating and tracking Body Mass Index
 </table>
 </div>
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -140,11 +131,7 @@ Clean, intuitive mobile application for calculating and tracking Body Mass Index
 
 </div>
 
----
-
 <div align="center">
-
-### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aayushk543/aayushk543/output/github-snake-dark.svg" />
@@ -154,12 +141,8 @@ Clean, intuitive mobile application for calculating and tracking Body Mass Index
 
 </div>
 
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-**💜 If you like my work, consider giving a ⭐ to my repos!**
 
 </div>
