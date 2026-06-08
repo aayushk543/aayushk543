@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aayush%20Kushwaha&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Builder%20%7C%20Developer%20%7C%20Creator&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A29BFE&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=Computer+Vision+%7C+Flutter+%7C+Full+Stack;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A29BFE&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -28,7 +28,6 @@ fun_fact: I build things that solve real problems ⚡
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushk543&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a29bfe&text_color=c9d1d9&langs_count=6" width="320"/>
 
-- 🔭 Working on **AlphaReader** — CV-based OCR system
 - 🏆 Built **Kingsmen** for Hackenza 2026
 - 📱 Love building mobile apps with **Flutter + Firebase**
 - 🎵 Contributing to **LMMS** open-source music software
@@ -104,14 +103,14 @@ Built with Flutter frontend and Firebase backend for real-time data and authenti
 </td>
 <td width="50%">
 
-### 🏥 BMI Calculator
-**Health App with Flutter**
+## 🌐 EnsureVault 
+**Insurance and claims Proccessing Database System**
 
-Clean, intuitive mobile application for calculating and tracking Body Mass Index.
+EnsureVault is a comprehensive, secure, and professional insurance policy and claims management platform built with modern web technologies.
 
-[![Repo](https://img.shields.io/badge/View_Code-6c5ce7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayushk543/BMI-Calculator)
+[![Repo](https://img.shields.io/badge/View_Code-6c5ce7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayushk543/EnsureVault)
 
-`Flutter` `Dart` `Health`
+`DBMS` `FastAPI` `Docker` `Project Management` 
 
 </td>
 </tr>
