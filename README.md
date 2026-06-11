@@ -78,9 +78,9 @@ Built with Python, OpenCV & Tesseract. Extracts and digitizes text from images w
 <td width="50%">
 
 ### 👑 Kingsmen
-**Hackenza 2026 Proposal**
+**Hackenza 2026 Hackathon**
 
-Innovative hackathon project with comprehensive documentation and real-world problem solving.
+The Robust Vision Challenge: Adaptation Under Distributional Shift & Label Noise. The problem demands a system capable of achieving high accuracy on a clean validation set despite training on “toxic” data, while simultaneously adapting to unknown sensor noise and estimating target class distributions on the fly.
 
 [![Repo](https://img.shields.io/badge/View_Code-6c5ce7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayushk543/Kingsmen)
 
