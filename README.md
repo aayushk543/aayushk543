@@ -28,11 +28,7 @@ fun_fact: I build things that solve real problems ⚡
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushk543&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a29bfe&text_color=c9d1d9&langs_count=6" width="320"/>
 
-- 🏆 Built **Kingsmen** for Hackenza 2026
-- 📱 Love building mobile apps with **Flutter + Firebase**
-- 🎵 Contributing to **LMMS** open-source music software
-- 🗄️ Designed **EnsureVault** — a DBMS group project
-- 🌐 Portfolio → [**aayushk543.github.io**](https://aayushk543.github.io)
+
 
 <br clear="both"/>
 
