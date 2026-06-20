@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aayush%20Kushwaha&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Builder%20%7C%20Developer%20%7C%20Creator&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
+
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A29BFE&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" /></a>
@@ -173,6 +173,6 @@ EnsureVault is a comprehensive, secure, and professional insurance policy and cl
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
 
 </div>
