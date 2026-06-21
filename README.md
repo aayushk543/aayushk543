@@ -23,7 +23,7 @@ education: Computer Science Student (BITS Pilani)
 currently_working_on: Computer Vision & Full-Stack Apps
 currently_learning: Advanced ML & System Design
 looking_to_collaborate_on: Open Source & Hackathon Projects
-fun_fact: I build things that solve real problems ⚡
+fun_fact: I build things that solve real problems 
 ```
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushk543&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a29bfe&text_color=c9d1d9&langs_count=6" width="320"/>
@@ -34,7 +34,7 @@ fun_fact: I build things that solve real problems ⚡
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -85,14 +85,14 @@ fun_fact: I build things that solve real problems ⚡
 
 </div>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 <table>
 <tr>
 <td width="50%">
 
-### 🔍 AlphaReader
+### AlphaReader
 **Computer Vision based OCR**
 
 Built with Python, OpenCV & Tesseract. Extracts and digitizes text from images with high accuracy.
@@ -104,7 +104,7 @@ Built with Python, OpenCV & Tesseract. Extracts and digitizes text from images w
 </td>
 <td width="50%">
 
-### 👑 Kingsmen
+### Kingsmen
 **Hackenza 2026 Hackathon**
 
 The Robust Vision Challenge: Adaptation Under Distributional Shift & Label Noise. The problem demands a system capable of achieving high accuracy on a clean validation set despite training on “toxic” data, while simultaneously adapting to unknown sensor noise and estimating target class distributions on the fly.
@@ -118,7 +118,7 @@ The Robust Vision Challenge: Adaptation Under Distributional Shift & Label Noise
 <tr>
 <td width="50%">
 
-### 🎲 Dice Game
+###  Dice Game
 **Full-Stack Mobile App**
 
 Built with Flutter frontend and Firebase backend for real-time data and authentication.
@@ -130,7 +130,7 @@ Built with Flutter frontend and Firebase backend for real-time data and authenti
 </td>
 <td width="50%">
 
-## 🌐 EnsureVault 
+## EnsureVault 
 **Insurance and claims Proccessing Database System**
 
 EnsureVault is a comprehensive, secure, and professional insurance policy and claims management platform built with modern web technologies.
@@ -144,7 +144,7 @@ EnsureVault is a comprehensive, secure, and professional insurance policy and cl
 </table>
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
