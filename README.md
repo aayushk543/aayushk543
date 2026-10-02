@@ -92,9 +92,9 @@ fun_fact: I build things that solve real problems
 <td width="50%">
 
 ### AlphaReader
-**Computer Vision based OCR**
+**Computer Vision–Based OCR**
 
-Built with Python, OpenCV & Tesseract. Extracts and digitizes text from images with high accuracy.
+Built with Python, OpenCV, and Tesseract. Extracts and digitizes text from images with high accuracy.
 
 [![Repo](https://img.shields.io/badge/View_Code-6c5ce7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayushk543/AlphaReader)
 
@@ -106,7 +106,7 @@ Built with Python, OpenCV & Tesseract. Extracts and digitizes text from images w
 ### Kingsmen
 **Hackenza 2026 Hackathon**
 
-The Robust Vision Challenge: Adaptation Under Distributional Shift & Label Noise. The problem demands a system capable of achieving high accuracy on a clean validation set despite training on “toxic” data, while simultaneously adapting to unknown sensor noise and estimating target class distributions on the fly.
+A solution for the Robust Vision Challenge: *Adaptation Under Distributional Shift & Label Noise*. The system is designed to achieve high accuracy on a clean validation set despite training on noisy and corrupted data, while adapting to unknown sensor noise and estimating target class distributions dynamically.
 
 [![Repo](https://img.shields.io/badge/View_Code-6c5ce7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayushk543/Kingsmen)
 
@@ -114,13 +114,14 @@ The Robust Vision Challenge: Adaptation Under Distributional Shift & Label Noise
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
-###  Dice Game
+### Dice Game
 **Full-Stack Mobile App**
 
-Built with Flutter frontend and Firebase backend for real-time data and authentication.
+A full-stack mobile application built with Flutter and Firebase, featuring real-time data synchronization and secure user authentication.
 
 [![Repo](https://img.shields.io/badge/View_Code-6c5ce7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayushk543/Dice_Game)
 
@@ -129,14 +130,14 @@ Built with Flutter frontend and Firebase backend for real-time data and authenti
 </td>
 <td width="50%">
 
-## EnsureVault 
-**Insurance and claims Proccessing Database System**
+### EnsureVault
+**Insurance & Claims Processing Database System**
 
-EnsureVault is a comprehensive, secure, and professional insurance policy and claims management platform built with modern web technologies.
+EnsureVault is a secure and professional insurance policy and claims management platform built with modern web technologies. It provides a structured system for managing policies, claims, and related insurance data.
 
 [![Repo](https://img.shields.io/badge/View_Code-6c5ce7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayushk543/EnsureVault)
 
-`DBMS` `FastAPI` `Docker` `Project Management` 
+`DBMS` `FastAPI` `Docker` `Project Management`
 
 </td>
 </tr>
