@@ -9,8 +9,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-aayushk543-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayushk543)
-[![Portfolio](https://img.shields.io/badge/Portfolio-aayushk543.github.io-6c5ce7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aayushk543.github.io)
-[![Profile Views](https://komarev.com/ghpvc/?username=aayushk543&style=for-the-badge&color=6c5ce7)](https://github.com/aayushk543)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aayush%20Kushwaha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-kushwaha-224784324/)
 
 </div>
 
